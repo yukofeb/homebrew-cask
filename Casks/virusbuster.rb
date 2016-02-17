@@ -1,5 +1,5 @@
 cask 'virusbuster' do
-	name 'Virusbuster'
+	name 'virusbuster'
 	url 'http://www.trendmicro.co.jp'
 	license :commercial
 
