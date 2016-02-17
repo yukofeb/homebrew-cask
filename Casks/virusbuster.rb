@@ -1,6 +1,6 @@
 cask 'virusbuster' do
 	name 'virusbuster'
-	url 'http://www.trendmicro.co.jp'
+	homepage 'http://www.trendmicro.co.jp'
 	license :commercial
 
 	if MacOS.release >= :mavericks
