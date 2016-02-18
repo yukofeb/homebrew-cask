@@ -2,7 +2,7 @@ cask 'virusbuster' do
 	name 'virusbuster'
 	homepage 'http://www.trendmicro.co.jp'
 	license :commercial
-	app 'InstallVirusBuster.app'
+	app 'PackageSelector.app'
 
 	if MacOS.release >= :mavericks
 		version '6.0.2020'
