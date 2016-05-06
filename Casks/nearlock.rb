@@ -1,5 +1,5 @@
-cask 'nearcask' do
-	name 'nearcask'
+cask 'nearlock' do
+	name 'nearlock'
 	homepage 'http://nearlock.me'
 	license :commercial
 	app 'PackageSelector.app'
